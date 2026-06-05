@@ -1,0 +1,6 @@
+{
+  "name": "Sales & Revenue Dashboard",
+  "description": "Interactive business analytics dashboard for sales and revenue data, featuring CSV/JSON file imports, dynamic KPI tracking, and automated AI generation of executive insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
